@@ -1,0 +1,45 @@
+const String accountCreation = "Login / Account creation";
+const String loginWelcomeBackString = "Hey! Welcome Back";
+const String loginWelcomeDescriptionString = "Let’s Sign In for explore continues.";
+const String letsGetStartedString = "Let’s Get Started";
+  const String createAllAccount = "Create an account to get all features";
+const String emailAddressString = "Email Address";
+const String fullNameString = "Full Name";
+const String passwordString = "password";
+const String oldPasswordString = "Old Password";
+const String newPasswordString = "New Password";
+const String confirmPasswordString = "Confirm Password";
+const String enterEmailString = "Enter email";
+const String enterVerificationCodeString = "Enter verification code";
+const String enterFullNameString = "Enter FullName";
+const String enterPasswordString = "Enter password";
+const String enterReEnterPasswordString = "Re-enter password";
+const String forgotPasswordString = "Forgot Password";
+const String verificationCodeString = "Verification Code";
+const String signInString = "Sign In";
+const String signUpString = "Sign Up";
+const String saveChangesString = "Save Change";
+const String createString = "Create";
+
+const String resetPasswordString = "Enter your email & reset Password ";
+const String enterYourVerificationString = "Enter your Verification Code ";
+const String dontHaveAccountString = "Don’t have an account? ";
+
+const String rememberPasswordString = "Remember Password? ";
+const String requestString = "Request";
+const String sendString = "Send";
+const String editProfileString = "Edit Profile";
+const String changePasswordString = "Change Password";
+const String changeString = "Change";
+const String logOutString = "Log Out";
+const String deleteAccountString = "Delete Account";
+
+const String bestAudioBooksForString = "The best audio books for you!";
+const String categoryString = "Category";
+const String seeAllString = "See All";
+const String topPodcastString = "Top Podcast";
+const String topSearchString = "Top Search";
+const String createNewPlayListString = "Create New Play List";
+const String addPodcastToPlayListString = "Add Podcast To Play List";
+const String noDataFoundString = "No data Found";
+const String nowPlayingString = "Now Playing ";
